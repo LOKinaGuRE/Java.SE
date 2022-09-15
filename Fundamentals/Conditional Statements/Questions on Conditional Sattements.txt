@@ -1,0 +1,4 @@
+1	Display name of day based on number
+2	Display name of a month based on number
+3 	Display type of website and protocol
+4	Menu driven program for arithmetic operations.

@@ -1,0 +1,10 @@
+1   Display Multiplication Table
+2   Find sum of n Numbers
+3   Factorial of a number
+
+4   Display Digits
+5   Count digits of a number
+6   Finding a number is Armstrong or not
+7   Reverse a number
+8   Check a number palindrome or not
+
