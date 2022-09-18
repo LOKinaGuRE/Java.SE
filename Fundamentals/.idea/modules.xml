@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements/Conditional Statements.iml" filepath="$PROJECT_DIR$/Conditional Statements/Conditional Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datatypes Operators and Expressions/Datatypes Operators and Expressions.iml" filepath="$PROJECT_DIR$/Datatypes Operators and Expressions/Datatypes Operators and Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>
