@@ -55,5 +55,6 @@ public class MatrixMultiplication {
 
 
         }
+        sc.close();
     }
 }

@@ -10,6 +10,7 @@ public class TwoDArray {
         int row = sc.nextInt();
         System.out.println("Enter the Number of Columns");
         int column = sc.nextInt();
+        sc.close();
 
         int[][] TwoDArray = new int[row][column];
 
@@ -31,18 +32,16 @@ public class TwoDArray {
         }
 
         System.out.println("Size of Array of 2nd Row");
-        int m=TwoDArray[1].length;
+        int m = TwoDArray[1].length;
         System.out.println(m);
 
-
         System.out.println("For -each ");
-for(int[] x : TwoDArray){
-    for (int y : x ){
-        System.out.print(y + " |");
-    }
-    System.out.println();
-}
-
+        for (int[] x : TwoDArray) {
+            for (int y : x) {
+                System.out.print(y + " |");
+            }
+            System.out.println();
+        }
 
     }
 }

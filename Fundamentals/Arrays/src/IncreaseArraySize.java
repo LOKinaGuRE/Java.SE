@@ -10,37 +10,36 @@ public class IncreaseArraySize {
         System.out.println("Enter the Elements :");
         int[] array = new int[size];
 
-
         for (int i = 0; i < size; i++) {
             array[i] = sc.nextInt();
 
         }
 
-        for ( int i=0 ; i<size ; i++){
-            System.out.print(array[i]+" ");
+        for (int i = 0; i < size; i++) {
+            System.out.print(array[i] + " ");
         }
         System.out.println();
 
-        //In  programming, we can't increase the size af existing array
-        //We will create a new array of desired size and
-        //Copy the elements of that array to new Array
+        // In programming, we can't increase the size af existing array
+        // We will create a new array of desired size and
+        // Copy the elements of that array to new Array
 
         System.out.println("Enter The Desired Size ");
         int newSize = sc.nextInt();
+        sc.close();
 
         int[] bArray = new int[newSize];
 
-        for (int i=0 ; i<size ; i++){
-            bArray[i]=array[i];
+        for (int i = 0; i < size; i++) {
+            bArray[i] = array[i];
         }
 
-//        array = bArray;
-//        bArray = null;
-
+        // array = bArray;
+        // bArray = null;
 
         System.out.println("New Array");
-        for ( int i=0 ; i<newSize ; i++){
-            System.out.print(bArray[i]+" ");
+        for (int i = 0; i < newSize; i++) {
+            System.out.print(bArray[i] + " ");
         }
 
     }
