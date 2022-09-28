@@ -21,7 +21,7 @@ public class Main {
 //            System.out.println(s);
 
 
-        Student st1 = new Student();
+        Student st1 = new Student(101,"Raj");
 
         int[] marks = new  int[s1.length];
         for (int i=0 ; i<marks.length ; i++){
