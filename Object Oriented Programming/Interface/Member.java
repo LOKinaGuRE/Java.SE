@@ -1,0 +1,3 @@
+interface Member {
+    void callBack();
+}
